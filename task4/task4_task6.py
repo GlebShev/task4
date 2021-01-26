@@ -13,3 +13,7 @@ for i in itertools.cycle(my_cycle_list):
         break
     print(i)
     count +=1
+    
+    
+    
+#task6
